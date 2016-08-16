@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Config>
+	<Temp_Sensor_Id>28-031515a24dff</Temp_Sensor_Id>
+	<Temp_Sensor_Id>28-000006dd6742</Temp_Sensor_Id>
+	<Heat_Pin>11</Heat_Pin>
+	<Cool_Pin>12</Cool_Pin>
+</Config>
